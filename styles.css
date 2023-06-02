@@ -1,0 +1,38 @@
+body{
+    background-color:#333533;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: #8548EC;
+}
+img{
+    width: 25%;
+    border-radius: 10px;
+}
+h2{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: #DD57AA ;
+   
+}
+li > span{
+    color: #FCF6BD;
+
+}
+article{
+    color: #83A6C6;
+}
+.rojo{
+    color: #A22C2A; 
+    font-size: 20px;
+    text-decoration:underline;
+}
+.verde{
+    color: #6EF6D5;
+    background-color: #000000;
+
+}
+footer{
+    color: #ffffff;
+}
